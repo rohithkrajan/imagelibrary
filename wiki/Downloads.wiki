@@ -1,0 +1,8 @@
+#summary Downloads
+
+=Downloads=
+==Grab the latest version here==
+[https://docs.google.com/uc?export=download&id=0ByDd6qehepdVNXFJZm9MYW13dDQ .NET Image Library version 2.0.0] Binary and documentation
+
+==Get via NuGet==
+Install [https://www.nuget.org/packages/ImageLibrary/ .NET Image Library package] via NuGet
